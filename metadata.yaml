@@ -1,0 +1,40 @@
+_repo: Parables-of-the-Cross_22189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trotter, I. Lilias (Isabella Lilias)
+    aliases:
+    - Trotter, Lilias
+    - Trotter, Isabella Lilias
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '25170'
+    url: http://www.gutenberg.org/2009/agents/25170
+    wikipedia: http://en.wikipedia.org/wiki/Lilias_Trotter
+description: Isabella Lilias Trotter (1853-1928) was an artist and a missionary for
+  over 38 years to the Muslims of Algeria. John Ruskin, the famous art critic, didn't
+  believe that ladies could paint before he met Lilias. He changed his mind after
+  he met her and believed that if she would give her life to painting she could become
+  the greatest painter of the nineteenth century. Ruskin believed that if she would
+  devote herself to art ""she would be the greatest living painter and do things that
+  would be immortal. "" He was unhappy that she was spending so much time on the streets
+  of London.
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcc 'BV'
+- !lcsh 'Salvation'
+- !lcsh 'Holy Cross'
+- !lcsh 'Parables'
+title: Parables of the Cross
+url: http://www.gutenberg.org/ebooks/22189
